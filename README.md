@@ -1,6 +1,6 @@
-Here’s a concise and powerful version of your Power BI project for your resume:
-
 ### Power BI Advanced Sales Dashboard Project
+
+https://github.com/user-attachments/assets/fda6dc64-f62b-4d54-9e9b-28bbfd0cd226
 
 **Project Aim:**
 Developed an advanced Power BI dashboard to provide comprehensive insights and sales forecasting for a business entity, addressing the need for detailed and interactive data visualization.
